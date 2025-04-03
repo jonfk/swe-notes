@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_references/kellblog-career-development-manager-director-vp.md",
+                "file": "neovim/vim-folds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kellblog-career-development-manager-director-vp"
+              "title": "vim-folds"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_references/kellblog-career-development-manager-director-vp.md",
+                "file": "neovim/vim-folds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for kellblog-career-development-manager-director-vp"
+              "title": "Backlinks for vim-folds"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_references/kellblog-career-development-manager-director-vp.md",
+                "file": "neovim/vim-folds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from kellblog-career-development-manager-director-vp"
+              "title": "Outgoing links from vim-folds"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_references/kellblog-career-development-manager-director-vp.md",
+                "file": "neovim/vim-folds.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of kellblog-career-development-manager-director-vp"
+              "title": "Outline of vim-folds"
             }
           }
         ]
@@ -170,7 +170,10 @@
   },
   "active": "abb894153cba02ff",
   "lastOpenFiles": [
-    "career/director-vs-vp.md",
-    "_references/kellblog-career-development-manager-director-vp.md"
+    "profile",
+    "_references/kellblog-career-development-manager-director-vp.md",
+    "neovim/vim-folds.md",
+    "neovim/202503212334 vim tip folds.md",
+    "career/director-vs-vp.md"
   ]
 }

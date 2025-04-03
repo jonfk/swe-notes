@@ -15,3 +15,9 @@
 - fn+ctrl+left: Resize window left half screen
 - fn+ctrl+right: Resize window right half screen
 - fn+ctrl+f: Resize window fill screen
+
+# Misc
+
+## MacOS Native
+
+- ctrl+cmd+space: Open Emoji keyboard
