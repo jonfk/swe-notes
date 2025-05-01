@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neovim/vim-folds.md",
+                "file": "diagramming/db-diagramming-with-dbdiagrams-io.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vim-folds"
+              "title": "db-diagramming-with-dbdiagrams-io"
+            }
+          },
+          {
+            "id": "72211a632f73af45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "neovim/starting-in-server-mode-and-connecting-to-it.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "starting-in-server-mode-and-connecting-to-it"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,13 +183,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abb894153cba02ff",
+  "active": "d49eb616d8942b92",
   "lastOpenFiles": [
+    "datasets/play-clickhouse-public-datasets.md",
+    "datasets",
+    "Untitled",
+    "diagramming/db-diagramming-with-dbdiagrams-io.md",
+    "neovim/starting-in-server-mode-and-connecting-to-it.md",
+    "diagramming",
+    "git/specify-ssh-key-by-host.md",
+    "git/git-worktree-multiple-working-directories.md",
+    "neovim/multiple-nvim-configs.md",
+    "git/multiple-git-profiles.md",
+    "neovim/vim-folds.md",
     "browser/vim-in-browser.md",
     "browser",
     "profile",
     "_references/kellblog-career-development-manager-director-vp.md",
-    "neovim/vim-folds.md",
     "neovim/202503212334 vim tip folds.md",
     "career/director-vs-vp.md"
   ]
