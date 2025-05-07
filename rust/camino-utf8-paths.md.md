@@ -1,0 +1,5 @@
+[camino](https://crates.io/crates/camino) is a crate that provides types for utf-8 paths. `Utf8Path` and `Utf8PathBuf` are like the standard library's [`PathBuf`](https://doc.rust-lang.org/std/path/struct.PathBuf.html) and [`Path`](https://doc.rust-lang.org/std/path/struct.Path.html) types, except they are guaranteed to only contain UTF-8 encoded data. Therefore, they expose the ability to get their contents as strings, they implement `Display`, etc.
+
+Camino provides some example for why non-utf8 paths would behave quite strangely and incorrectly and many tools already assume unicode paths. It therefore makes some sense to make life easier by encoding this in the application.
+
+This probably shouldn't be used for system level stuff where non-utf8 paths are quite possible. But for application level stuff, it seems to make sense.
