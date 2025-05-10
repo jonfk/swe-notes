@@ -7,7 +7,7 @@ Here's how to set it up:
    mkdir -p ~/.config/nvim-test
    ```
 
-2. Copy your existing config to start with or start one fram scratch:
+2. Copy your existing config to start with or start one from scratch:
    ```bash
    cp -r ~/.config/nvim/* ~/.config/nvim-test/
    ```
