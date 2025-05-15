@@ -13,6 +13,7 @@ Git subtree lets you embed external repositories directly within your own repo, 
 ```bash
 # Add external repo as remote
 git remote add <name> <repository-url>
+# Note: instead of adding the repo as a remote, you can use the url to the repo directly in the add, pull and push commands
 
 # Add the subtree
 git subtree add --prefix=<local-path> <remote-name> <branch> --squash
